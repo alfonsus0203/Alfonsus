@@ -2,7 +2,6 @@
 ### You are free to use any of the code in this project, but must change any images and personal details within.
 ## LIVE DEMO
 ### https://github.com/alfonsus0203/Alfonsus/upload/main/portofolio-alfon
-### This is portfolio_website by Krishna
 ### Please star this repo and follow me here on Github so that other can find this repository.
 
 # Technologies Used
